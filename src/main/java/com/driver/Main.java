@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args){
         RWOnly obj = new RWOnly();
 
-        obj.setName("Amit");
+        obj.setName("Abdul");
         obj.getName();
     }
 
